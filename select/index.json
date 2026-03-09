@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "サッドガール・セックス",
+  "base_artist": "DECO*27",
+  "createdAt": "2026-03-09T01:14:17.503879Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サッドガール・セックス",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/01_サッドガール・セックス_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サッドガール・セックス",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/02_サッドガール・セックス_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サッドガール・セックス",
+      "artist": "DECO∗27",
+      "has_synced": true,
+      "path": "select/03_サッドガール・セックス_DECO∗27.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サッドガール・セックス",
+      "artist": "Finana Ryugu",
+      "has_synced": true,
+      "path": "select/04_サッドガール・セックス_Finana_Ryugu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サッドガール・セックス",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_サッドガール・セックス_DECO_27.txt"
+    }
+  ]
+}
